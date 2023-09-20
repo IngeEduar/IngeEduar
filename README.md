@@ -128,6 +128,6 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IngeEduar&theme=highcontrast)](https://git.io/streak-stats)
 
-  ![DerianAguilar GitHub stats](https://github-readme-stats.vercel.app/api?username=IngeEduar&show_icons=true&theme=highcontrast)
+  ![IngeEduar GitHub stats](https://github-readme-stats.vercel.app/api?username=IngeEduar&show_icons=true&theme=highcontrast)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8)
