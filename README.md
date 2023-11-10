@@ -130,4 +130,4 @@
 
   ![IngeEduar GitHub stats](https://github-readme-stats.vercel.app/api?username=IngeEduar&show_icons=true&theme=highcontrast)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=12)
