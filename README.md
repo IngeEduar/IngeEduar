@@ -119,6 +119,69 @@
           width="40"
           height="40"
         />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg"
+          title="ArgoCD"
+          alt="ArgoCD"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg"
+          title="Symfony"
+          alt="Symfony"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+          title="Docker"
+          alt="Docker"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"
+          title="Grafana"
+          alt="Grafana"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"
+          title="Jenkins"
+          alt="Jenkins"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+          title="Kubernetes"
+          alt="Kubernetes"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+          title="MongoDb"
+          alt="MongoDb"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
+          title="Nginx"
+          alt="Nginx"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+          title="PHP"
+          alt="PHP"
+          width="40"
+          height="40"
+        />&nbsp;
       </div>
   </div> 
 
@@ -130,4 +193,4 @@
 
   ![IngeEduar GitHub stats](https://github-readme-stats.vercel.app/api?username=IngeEduar&show_icons=true&theme=highcontrast)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=12)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=15)
