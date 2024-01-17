@@ -21,7 +21,14 @@
   <div align="left">
       <h3>🔨 Languages and tools</h3>
       <div style="display: flex;">
-                <img
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"
+          title="git"
+          alt="git"
+          width="40"
+          height="40"
+        />&nbsp;
+        <img
           src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
           title="git"
           alt="git"
