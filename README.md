@@ -1,311 +1,93 @@
-
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" width="400px" />
+  <h1>Hi 👋, I am Eduar Avendaño</h1>
+  <h3>
+    Software engineer by training, passionate about creating efficient and scalable solutions, 
+    specialized in backend technologies, DevOps, and container-based architectures.
+  </h3>
 </div>
 
-<h1 align="center">Hi 👋, I am Eduar Avendaño</h1>
-<h3 align="center">Software engineer by training, passionate about creating efficient and scalable solutions, specialized in backend technologies, DevOps and container-based architectures.</h3>
 ---
-  
-  👨‍💻 About me
-  
-  - 🔭 I am currently studying **software engineering.**
-    
-  - 🌱 I’m currently learning **Terraform, Pulumi, etc.**
-  
-  - 💬 Ask me about **SpringBoot, Kubernetes, Docker, MongoDb, Elasticsearch, Monitoring, etc.**
-  
-  - 📫 How to reach me **ingeeduar20@gmail.com**
-  
-<div align="center">
-  <h3>🔨 Languages and tools</h3>
-  <h4>Languages</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
-      title="typescript"
-      alt="typescript"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-      title="Python"
-      alt="python"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
-      title="PHP"
-      alt="PHP"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
-      title="java"
-      alt="java"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
-      title="javascript"
-      alt="javascript"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      title="C++"
-      alt="C++"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
 
-  <h4>Deploy and DevOps</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg"
-      title="ArgoCD"
-      alt="ArgoCD"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-line.svg"
-      title="Helm"
-      alt="Helm"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"
-      title="Terraform"
-      alt="Terraform"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
-      title="Docker"
-      alt="Docker"
-      width="40"
-      height="40"
-    />&nbsp; 
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"
-      title="Jenkins"
-      alt="Jenkins"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
-      title="Kubernetes"
-      alt="Kubernetes"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
+## 👨‍💻 About Me
 
-  <h4>Frontend and Styles</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      title="React"
-      alt="React"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-      title="css3"
-      alt="css3"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
-      title="Bootstrap"
-      alt="Bootstrap"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-
-  <h4>Backend</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg"
-      title="Symfony"
-      alt="Symfony"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
-      title="Flask"
-      alt="Flask"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
-      title="Node"
-      alt="Node"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
-      title="Spring Boot"
-      alt="Spring Boot"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-
-  <h4>Databases</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-      title="MongoDb"
-      alt="MongoDb"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-      title="mysql"
-      alt="mysql"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg"
-      title="Elasticsearch"
-      alt="elasticsearch"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-      title="MongoDb"
-      alt="MongoDb"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"
-      title="Redis"
-      alt="Redis"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-
-  <h4>Web server</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
-      title="Nginx"
-      alt="Nginx"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-original.svg"
-      title="Traefik"
-      alt="Traefik"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-
-  <h4>Shell</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-      title="bash"
-      alt="bash"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg"
-      title="zsh"
-      alt="zsh"
-      width="40"
-      height="40"
-    />&nbsp;      
-  </div>
-
-  <h4>Monitoring</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"
-      title="Grafana"
-      alt="Grafana"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg"
-      title="prometheus"
-      alt="prometheus"
-      width="40"
-      height="40"
-    />&nbsp;     
-  </div>
-
-  <h4>SVC</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
-      title="git"
-      alt="git"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg"
-      title="Jira"
-      alt="Jira"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-      title="github"
-      alt="github"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-
-  <h4>Others</h4>
-  <div style="display: flex;">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"
-      title="Arduino"
-      alt="arduino"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg"
-      title="RabiitMQ"
-      alt="RabiitMQ"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-</div> 
+- 🔭 I am currently studying **software engineering.**
+- 🌱 I’m currently learning **Terraform, Pulumi, etc.**
+- 💬 Ask me about **SpringBoot, Kubernetes, Docker, MongoDB, Elasticsearch, Monitoring, etc.**
+- 📫 How to reach me **ingeeduar20@gmail.com**
 
 ---
-  
-### Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8)
+
+## 🛠️ Technologies
+
+### **Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=springboot&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### **Backend Frameworks**
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### **Frontend Frameworks and Styles**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+### **DevOps and CI/CD**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-E01F25?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Kustomize](https://img.shields.io/badge/-Kustomize-3178C6?style=flat&logo=kubernetes&logoColor=white)
+
+### **Monitoring and Observability**
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/-Alertmanager-FF7E00?style=flat&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-005571?style=flat&logo=prometheus&logoColor=white)
+![Promtail](https://img.shields.io/badge/-Promtail-2E76AB?style=flat&logo=prometheus&logoColor=white)
+
+### **Cloud Providers and Operating Systems**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Hostinger](https://img.shields.io/badge/-Hostinger-1A76FF?style=flat&logo=hostinger&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+
+### **Version Control and Collaboration**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+### **Other Tools**
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![IronMQ](https://img.shields.io/badge/-IronMQ-E44D26?style=flat)
+
+---
+
+## 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8)
