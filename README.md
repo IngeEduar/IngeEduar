@@ -90,4 +90,4 @@
 ---
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeEduar&langs_count=8&bg_color=151b23&text_color=ffffff)
